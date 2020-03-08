@@ -17,7 +17,7 @@ module.exports = {
       options: {
         basePath: `/`,
         imagePath: `book/images`,
-        // audioPath: `book/audio`,
+        audioPath: `book/audio`,
         infoLink: {
           title: "POW! on GitHub",
           url: `https://github.com/raae/pow-app.git`,
